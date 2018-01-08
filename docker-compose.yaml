@@ -1,0 +1,5 @@
+version: '3'
+services:
+  apiary2postman:
+    build: .
+    image: apiary2postman
